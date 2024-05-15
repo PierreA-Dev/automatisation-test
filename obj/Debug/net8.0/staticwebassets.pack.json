@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\git\\automatisation-test\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\git\\automatisation-test\\obj\\Debug\\net8.0\\compressed\\4uobh67k74.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\git\\automatisation-test\\obj\\Debug\\net8.0\\scopedcss\\bundle\\automatisation-test.styles.css",
+      "PackagePath": "staticwebassets\\automatisation-test.styles.css"
+    },
+    {
+      "Id": "C:\\git\\automatisation-test\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\git\\automatisation-test\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\git\\automatisation-test\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\git\\automatisation-test\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\git\\automatisation-test\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\git\\automatisation-test\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\git\\automatisation-test\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.automatisation-test.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.automatisation-test.props",
+      "PackagePath": "build\\automatisation-test.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.automatisation-test.props",
+      "PackagePath": "buildMultiTargeting\\automatisation-test.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.automatisation-test.props",
+      "PackagePath": "buildTransitive\\automatisation-test.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
